@@ -1,0 +1,20 @@
+# ---- CIFAR-10 数据集（178MB，课程提供，不提交）----
+cifar-10-batches-py/
+
+# ---- 训练产物（任务书要求不提交模型文件）----
+*.pt
+*.pth
+*.onnx
+*.png
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# ---- IDE ----
+.idea/
+.vscode/
+
+# ---- 课程文档 ----
+*.docx
